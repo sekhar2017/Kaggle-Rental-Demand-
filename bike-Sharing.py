@@ -96,7 +96,7 @@ for e in range(epochs):
 # plt.legend()
 # plt.ylim(ymax=10)
 
-# ## Check out your predictions
+# ## Checking out the predictions
 
 fig, ax = plt.subplots(figsize=(8,4))
 
